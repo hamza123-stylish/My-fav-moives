@@ -1,0 +1,17 @@
+*{
+	font-family: sans-serif;
+}
+
+.Movies>h1{
+	text-align: center;
+	color: blue;
+	font-family: sans-serif;
+	text-decoration: underline;
+}
+.Movies>p{
+
+}
+.list-of-fav-movies{
+	color: blueviolet;
+	margin: 2px;
+}
